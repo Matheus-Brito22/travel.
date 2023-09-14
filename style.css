@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Caveat:wght@700&display=swap');
+
+
+
+
+header{
+   
+    background-color: rgba(0, 0, 0, 0.412);
+}
+
+.link{
+    text-decoration: none;
+
+}
+
+.link h1:hover{
+    color: #a52626;
+}
+
+main{
+    font-family: 'ABeeZee', sans-serif;;
+}
+
+h1{
+    font-family: 'Caveat', sans-serif;
+    font-size: 6em;
+    color: #000000;
+}
+
+h2{
+    font-family: 'ABeeZee', sans-serif;
+}
+
+h2 strong{
+    font-family: 'Caveat';
+    font-size: 1.5em;
+    color: #a52626;
+}
+
+#community h3{
+    color: #a52626;
+}
+
+.nav-item .nav-link.active{
+    background-color: rgba(0, 0, 0, 0.312);
+    font-weight: bold;
+}
+
+.nav-item .nav-link{
+    color: #000000;
+    font-weight: bold;
+}
+
+.dropdown-toggle.btn.btn-primary{
+    color: #000000;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+
+.dropdown-menu {
+    background-color: #00000086;
+    
+}
+
+.dropdown-menu li a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 4px;
+}
+
+.col-md-4 a{
+    text-decoration: none;
+}
+
+.col-md-4 a h3, .col-md-4 a h2, .col-md-4 a p{
+    
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.col-md-4 a .card{
+    height: 350px;
+    width: 100%;
+    border: 1px solid #a52626;
+}
+
+
+
+.d-flex button{
+    color: #000000;
+    font-weight: 500;
+}
+
+.promotions .nav-link.active{
+    color: #a52626;
+    font-weight: bold;
+}
+
+.d-flex button:hover{
+    color: #a52626;
+}
+
+.col-md-4 a .card:hover{
+    color: #fff;
+    background-color: #a52626;
+    box-shadow: 8px 8px 0px 4px #0000001e;
+}
+
+
+.nav.nav-tabs .nav-link.active{
+    background-color: #a52626;
+    color: #fff;
+}
+
+#contact button{
+    background-color: #a52626;
+    color: #fff;
+    font-weight: bolder;
+}
+
+#contact button:hover{
+    background-color: #a52626a6;
+}
+
+footer{
+    background-color: #a52626;
+    height: 120px;
+    width: 100%;
+}
+
+footer a{
+    width: 150px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+footer a:hover{
+    color: #000000;
+}
